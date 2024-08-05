@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="950.0" prefWidth="975.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.buscaminascristian.PantallajuegoController">
+   <children>
+      <ImageView fitHeight="1018.0" fitWidth="1756.0" layoutX="-153.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@juego.gif" />
+         </image>
+      </ImageView>
+      <MenuBar layoutX="1.0" layoutY="2.0" prefHeight="25.0" prefWidth="1576.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Archivo">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#salir" text="Cerrar" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Juego">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#obtenerInformacion" text="Información" />
+                  <MenuItem mnemonicParsing="false" onAction="#reiniciarIntento" text="Reiniciar" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <StackPane fx:id="tablero" layoutY="27.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="876.0" prefWidth="975.0" />
+      <HBox layoutY="911.0" opacity="0.54" prefHeight="25.0" prefWidth="105.0" style="-fx-background-color: blue; -fx-background-radius: 30;">
+         <children>
+            <Text fx:id="textoTiempo" fill="RED" strokeType="OUTSIDE" strokeWidth="0.0" text="Tiempo:">
+               <HBox.margin>
+                  <Insets left="5.0" />
+               </HBox.margin>
+            </Text>
+            <Text fx:id="temporizador" fill="#f82db4" strokeType="OUTSIDE" strokeWidth="0.0">
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </Text>
+         </children>
+      </HBox>
+   </children>
+</Pane>

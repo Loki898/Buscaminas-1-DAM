@@ -1,0 +1,15 @@
+Ichigo,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Rukia,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Renji,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Byakuya,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Toshiro,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Uryu,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Orihime,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Yoruichi,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Kenpachi,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Retsu,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Kisuke,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Cristian,Rodriguez
+Buenas ,Corrector
+f,sdfgsdfg
+dffdfdf,fdfdf

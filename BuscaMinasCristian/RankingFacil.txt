@@ -1,0 +1,10 @@
+Ichigo,35,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Ichigo,37,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Cristian,52,Rodriguez
+Cristian,63,Rodriguez
+Ichigo,67,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Ichigo,74,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Cristian,74,Rodriguez
+Ichigo,90,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Ichigo,100,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
+Ichigo,120,./src/main/resources/com/mycompany/buscaminascristian/ImagenesJugadores/Ichigo.jpg
